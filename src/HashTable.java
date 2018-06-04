@@ -1,5 +1,5 @@
 
-/* Alice Lesowski
+/* Alicé Lesowski
  * June 4, 2018
  * CSCI 232
  * Program 3
